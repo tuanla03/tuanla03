@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**tuanla03/tuanla03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tuan, a Cybersecurity Student based in Vietnam, with a strong passion to be a Network Engineering. I enjoy configuring and assist on designing network infrastructures.
 
-Here are some ideas to get you started:
+Although I sometimes face challenging commands that don't work (a network engineer's daily life! 😅), I am committed to finding the solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm familiar with configuring Cisco devices ( CCNA ); Basic proficiency in Python; Comfortable with Debian-based OS commands (Ubuntu, Kali Linux) and Configuring Windows Server. ( and ofcourse, Windows Desktop too )
+
+I upload projects and anything that interests me ( just don't often 😪 )
+
+Feel free to reach out or connect with me on other social media platforms!
+
+Fun Facts About Me:<br>
+▹ I have 3 cat ( all of them are orange 🐈 )<br>
+▹ I love staying active by playing badminton 🏸 and practicing Muay Thai 🥊. ( sometimes 🤷‍♂️ )<br>
+▹ I'm into Japanese things ( language, culture, anime,... )
